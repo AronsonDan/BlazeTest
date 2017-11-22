@@ -1,0 +1,13 @@
+
+/.cache/
+/bin/
+/include/
+/lib/
+/lib64/
+/share/
+/pyvenv.cfg
+/pip-selfcheck.json
+/selenium/
+.idea/
+__pycache__/
+lib64
